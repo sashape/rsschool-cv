@@ -54,4 +54,4 @@ function highAndLow(numbers){
 #### Languages
 Russian - native  
 English - B1 intermediate by  
-![english skill](/images/english.png)
+![english skill](/images/english.png | width=300)
