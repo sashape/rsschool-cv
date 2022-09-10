@@ -1,1 +1,1 @@
-https://sashape.github.io/rsschool-cv/cv
+https://sashape.github.io/rsschool-cv/
