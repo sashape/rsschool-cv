@@ -41,7 +41,6 @@ function highAndLow(numbers){
 }
 ```
 #### Learning
-
 - 2006 - 2010: Volzhky Politech College "IT specialist"  
 - 2010: Offline course "Building Websites"  
 - 2011: php.net learning documentation by myself  
@@ -55,4 +54,4 @@ function highAndLow(numbers){
 #### Languages
 Russian - native  
 English - B1 intermediate by  
-![english skill](/rsschool-cv/images/english.png)
+![english skill](/images/english.png)
