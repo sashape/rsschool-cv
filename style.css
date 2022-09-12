@@ -14,9 +14,10 @@ h1 {
 .app {
     background-color: #05334B;
     width: 100%;
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
-    
+    position: relative;
+    overflow: hidden;
 }
 .header {
     padding: 60px 50px;
@@ -25,9 +26,13 @@ h1 {
     grid-template-areas: "info photo"
                          "social photo";
     grid-template-columns: 400px 1fr;
-    grid-template-rows: 1fr 228px;
+    grid-template-rows: 0fr 120px;
+}
+.header a, .header a:hover, .header a:visited {
+    color: #E8F0F3;
 }
 .header__info {
+    z-index: 10;
     grid-area: info;
 }
 .header__info_description {
@@ -69,35 +74,25 @@ h1 {
 .header__socials {
     grid-area: social;
     align-self: end;
-    height: 70px;
+    height: 6px;
 }
 
 /* SHAPES */
 .shapes {
     /* background-color: #E8F0F3 */
 }
-.shape_line {
-    width: 1000px;
-    position: absolute;
-    top: 210px;
-    height: 30px;
-    display: flex;
-}
 .shape_1 {
-    width: 50%;
-    height: 30px;
-    border-bottom-right-radius: 36px;
-    background-color: #E8F0F3
+    position: absolute;
+    top: -2px;
+    left: -6px;
+    right: 167px;
 }
 .shape_2 {
-    border-top-right-radius: 50px;
-    width: 50%;
-    height: 30px;
-    background-color: #E8F0F3;
-    position: relative;
-    left: -110px;
-    top: -162px;
-    transform: rotate(135deg);
+    position: absolute;
+    top: 0px;
+    right: -135px;
+    width: 493px;
+    height: 100%;
 }
 .content {
     display: grid;
@@ -127,10 +122,42 @@ h1 {
 .content__left__section_header h2, .content__left__section p, .list {
     padding-left: 60px;
 }
+.content__right {
+    justify-self: center;
+    z-index: 10;
+    margin-top: 50px;
+}
 .list__item {
     margin-bottom: 30px;
 }
 .list__item_header, .list__item_footer {
     font-weight: bold;
     margin: 10px 0;
+}
+.contacts__list_item {
+    margin-bottom: 10px;
+}
+.icon {
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.icon.email {
+    width: 18px;
+    height: 14px;
+    background-image: url(images/email.svg);
+}
+.icon.addr {
+    width: 18px;
+    height: 14px;
+    background-image: url(images/address.svg);
+}
+.icon.phone {
+    width: 14px;
+    height: 17px;
+    background-image: url(images/phone.svg);
+}
+.icon.site {
+    width: 14px;
+    height: 13px;
+    background-image: url(images/site.svg);
 }
