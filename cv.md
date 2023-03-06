@@ -44,17 +44,17 @@ touchend(e) {
 }
 ```
 #### Learning
-2006 - 2010: Volzhky Politech College "IT specialist"
-2010: Offline course "Building Websites"
-2011: php.net learning documentation by myself
-2015: Styding book from learn.javascript.ru
-2023: rsschool JS / FRONT-END course stage #1
+2006 - 2010: Volzhky Politech College "IT specialist"  
+2010: Offline course "Building Websites"  
+2011: php.net learning documentation by myself  
+2015: Styding book from learn.javascript.ru  
+2023: rsschool JS / FRONT-END course stage #1  
 
 #### Working experience
-2011-2019 - freelance, building websites on modx and wordpress
-2019 - full-stack developer at eastclinic.ru
+2011-2019 - freelance, building websites on modx and wordpress  
+2019 - full-stack developer at eastclinic.ru  
 
 #### Languages
-Russian - native
+Russian - native  
 English - B1 intermediate by  
 ![english skill](/images/english.png)
