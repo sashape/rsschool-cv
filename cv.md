@@ -2,9 +2,9 @@
 ## Junior Fronted Developer
 ----------
 #### Contact information:
-Phone: [+90(543)-168-43-99](tel:+905431684399)
-E-mail: sashape89@gmail.com
-Telegram: @sashape
+Phone: [+90(543)-168-43-99](tel:+905431684399)  
+E-mail: sashape89@gmail.com  
+Telegram: @sashape  
 [LinkedIn](https://www.linkedin.com/in/aleksandr-penskoy-3b7416234/)
 
 
@@ -14,7 +14,7 @@ Greetings, fellow humans! Please allow me to present my resume, a collection of 
 
 But enough about me, let me tell you about my personal life! When I'm not busy coding, I enjoy spending time with my lovely wife and our beloved hairless dog. Yes, you heard that right, a hairless dog! I guess you could say that I have a penchant for unique and unconventional things, much like my coding style. In fact, my coding is so clean and efficient that it makes my computer run so fast that it's practically flying! Or maybe that's just because I installed a new SSD... well, I like to think it's my code!
 
-####My skills
+#### My skills
 - javascript
 - html, css
 - php
@@ -25,7 +25,7 @@ But enough about me, let me tell you about my personal life! When I'm not busy c
 - nginx
 
 
-####Code example
+#### Code example
 Simple code fragment from Vue project. This is a method of component which can switching video on click.
 ```javascript
 touchend(e) {
@@ -43,18 +43,18 @@ touchend(e) {
   }
 }
 ```
-####Learning
+#### Learning
 2006 - 2010: Volzhky Politech College "IT specialist"
 2010: Offline course "Building Websites"
 2011: php.net learning documentation by myself
 2015: Styding book from learn.javascript.ru
 2023: rsschool JS / FRONT-END course stage #1
 
-####Working experience
+#### Working experience
 2011-2019 - freelance, building websites on modx and wordpress
 2019 - full-stack developer at eastclinic.ru
 
-####Languages
+#### Languages
 Russian - native
-English - B1 intermediate by
+English - B1 intermediate by  
 ![english skill](/images/english.png)
