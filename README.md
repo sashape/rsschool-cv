@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sashape.github.io/rsschool-cv/
